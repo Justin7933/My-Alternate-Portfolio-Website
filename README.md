@@ -17,6 +17,14 @@ Technolgies used during this was html,css,bootstrap, javascript,fontAwesome, and
             <img alt="Screenshot" src="assets\img\jpg\Screenshot 2021-08-15 172301-portfolio1.png" />
           </picture>
 
+ <picture>
+            <img alt="Screenshot" src="assets\img\jpg\Screenshot 2021-08-15 172505-portfolio2.png" />
+          </picture>
+
+ <picture>
+            <img alt="Screenshot" src="assets\img\jpg\Screenshot 2021-08-15 172545-portfolio3.png" />
+          </picture>
+
 
 
 
