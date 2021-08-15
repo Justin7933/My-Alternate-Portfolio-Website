@@ -1,9 +1,9 @@
 # <a href="https://justin7933.github.io/My-Alternate-Portfolio-Website/" target="_blank">My Portfolio Website</a>
 
 My Portfolio Website
-*I had messaged Mike about this assignment. I found a template that I really liked and used it for this assigment. I asked Mike if I could use it and he said that is fine with him.
+*I had messaged Mike about this assignment. I found a template that I really liked and used it for this assigment. I asked Mike if I could use it and he said that is fine with him.*
 
-Technolgies used during this was html,css,bootstrao, javascript,fontAwesome, and google drive.
+Technolgies used during this was html,css,bootstrap, javascript,fontAwesome, and google drive.
 
 
 
