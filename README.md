@@ -25,6 +25,7 @@ Technolgies used during this was html,css,bootstrap, javascript,fontAwesome, and
             <img alt="Screenshot" src="assets\img\jpg\Screenshot 2021-08-15 172545-portfolio3.png" />
           </picture>
 
+*PS: That picture is one of my friends I put it up there to make him laugh that will be changed ASAP!*
 
 
 
