@@ -11,6 +11,13 @@ Technolgies used during this was html,css,bootstrap, javascript,fontAwesome, and
 
  My email is justindamon84@gmail.com if you need to contact me.
 
+ <strong>Screenshots</strong>
+
+ <picture>
+            <img alt="Screenshot" src="assets\img\jpg\Screenshot 2021-08-15 172301-portfolio1.png" />
+          </picture>
+
+
 
 
 
